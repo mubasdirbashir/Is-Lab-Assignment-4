@@ -1,0 +1,37 @@
+COMSATS University Islamabad, Attock Campus
+Department of Computer Science
+Operating Systems
+Lab- Assignment 1 CLO-5 Marks [10]
+You have just been hired as a Junior Linux System Administrator at a company called TechNova Solutions. On your
+first day, your manager gives you access to an Ubuntu server and asks you to perform several administrative and file
+management tasks to verify your Linux skills. You are currently logged into the system.
+Task 1: System Information Check
+1. Display the current calendar.
+2. Display the current date and time.
+3. Show your present working directory.
+4. Display system memory usage.
+5. Display disk usage in human-readable format.
+6. List all files (including hidden files) in the current directory using all possible listing options.
+Task 2: Directory Structure Setup
+1. 2. 3. Create the directory structure in a single command where possible.
+Navigate to the technova directory using a full path.
+Navigate to the reports directory using a relative path.
+4. Confirm your current location.
+Task 3: File Creation and Editing
+1. 2. 3. 4. Create three empty files inside reports:
+a. report1.txt
+b. report2.txt
+c. summary.txt
+Open report1.txt using a text editor
+Append the current date to report1.txt using a command (without opening the editor).
+Display the contents of report1.txt
+Task 4: Copying and Backup
+1. 2. 3. Copy report1.txt to the backup directory.
+Rename the copied file to report1_backup.txt during the copy process.
+List the contents of the backup directory to confirm.
+Task 5: File and Directory Removal
+1. Delete report2.txt.
+2. Remove the summary.txt file.
+3. Attempt to remove the logs directory (observe what happens).
+4. Remove the logs directory properly.
+5. Remove the entire backup directory.
